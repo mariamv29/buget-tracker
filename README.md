@@ -1,4 +1,4 @@
-# buget-tracker
+# Buget-Tracker
 
 
 ## Description 
