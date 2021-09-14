@@ -5,7 +5,7 @@
 Budget Tracker is an application that allows a user to keep track of their expenses and deposits with offline access and functionality. If there is no connection then the user will be able to enter the transaction, it will be stored in the object store and once connection is restored, the transaction will be updated. This application will be able to be installed to a users local device. For deployment, this application is deployed with Heroku using MongoDB Atlas. 
 
 ![screeshot](./images/screenshot.jpg)
-![Heroku Link](https://rocky-forest-04357.herokuapp.com/)
+[Heroku Link](https://rocky-forest-04357.herokuapp.com/)
 
 ## User Story 
 AS AN avid traveler
